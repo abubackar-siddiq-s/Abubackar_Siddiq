@@ -23,9 +23,9 @@ Python · C · Data Structures & Algorithms · Git · GitHub · Postman · Micro
 ---
 
 ## 📫 Connect with Me  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Twitter/X:** [twitter.com/your-handle](https://twitter.com/your-handle)
+- **Email:** [your.email@example.com](abubackar.siddiq.stn@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/abubackar-siddiq)  
+- **GitHub:** [github.com/your-handle](https://github.com/abubackar-siddiq-s)
 
 ---
 
